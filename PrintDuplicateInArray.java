@@ -38,40 +38,5 @@ public class PrintDuplicateInArray {
         }
 
     }
-    // public static int subArray(int [] a)
-    // {
-    //     int count=0;
-    //     for(int i=0;i<=a.length-1;i++)
-    //     {
-    //         int ab = a[i];
-    //         for(int j=i+1;j<=a.length-2;j++)
-    //         {
-    //             if(ab==a[j])
-    //             {
-    //                 count++;
-    //             }
-    //         }
-    //     }
-    //     return count;
-    // }
-    // public static int [] duplicateElements(int [] a)
-    // {
-    //     int [] b = new int[subArray(a)];
-    //     for(int i=0;i<=a.length-1;i++)
-    //     {
-    //         int bc = a[i];
-    //         for(int j=i+1;j<=a.length-2;j++)
-    //         {
-    //             if(bc==a[j])
-    //             {
-    //                 for(int k=0;k<=b.length-1;k++)
-    //                 {
-    //                     b[k]=bc;
-    //                 }
-                    
-    //             }
-    //         }
-    //     }
-    //     return b;
-    // }
+   
 }
